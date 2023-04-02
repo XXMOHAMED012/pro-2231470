@@ -85,6 +85,7 @@ ul{
 .landing .container .box img{
     width: 55%;
     padding: 10px 20px;
+    background-color: var(--main-color);
 }
 
 .landing .container .box .text{
